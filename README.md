@@ -1,6 +1,9 @@
 # great_places
 
-A new Flutter project.
+A simple note book of great places you visited with images and gps coordinates,
+
+video at : 
+https://www.instagram.com/tv/CXid6_qlenj/?utm_source=ig_web_copy_link
 
 ## Getting Started
 
